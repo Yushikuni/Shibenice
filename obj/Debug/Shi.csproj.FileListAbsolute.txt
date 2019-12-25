@@ -1,0 +1,58 @@
+C:\Users\Květuše\Desktop\Práce na příští 4 týdny\shibenice\Shi\Shi\bin\Debug\Shi.exe.config
+C:\Users\Květuše\Desktop\Práce na příští 4 týdny\shibenice\Shi\Shi\bin\Debug\Shi.exe
+C:\Users\Květuše\Desktop\Práce na příští 4 týdny\shibenice\Shi\Shi\bin\Debug\Shi.pdb
+C:\Users\Květuše\Desktop\Práce na příští 4 týdny\shibenice\Shi\Shi\obj\Debug\Shi.csprojResolveAssemblyReference.cache
+C:\Users\Květuše\Desktop\Práce na příští 4 týdny\shibenice\Shi\Shi\obj\Debug\Shi.Form1.resources
+C:\Users\Květuše\Desktop\Práce na příští 4 týdny\shibenice\Shi\Shi\obj\Debug\Shi.Properties.Resources.resources
+C:\Users\Květuše\Desktop\Práce na příští 4 týdny\shibenice\Shi\Shi\obj\Debug\Shi.csproj.GenerateResource.Cache
+C:\Users\Květuše\Desktop\Práce na příští 4 týdny\shibenice\Shi\Shi\obj\Debug\Shi.exe
+C:\Users\Květuše\Desktop\Práce na příští 4 týdny\shibenice\Shi\Shi\obj\Debug\Shi.pdb
+U:\PSA-3\Nová složka\Práce na příští 4 týdny\shibenice\Shi\Shi\bin\Debug\Shi.exe.config
+U:\PSA-3\Nová složka\Práce na příští 4 týdny\shibenice\Shi\Shi\bin\Debug\Shi.exe
+U:\PSA-3\Nová složka\Práce na příští 4 týdny\shibenice\Shi\Shi\bin\Debug\Shi.pdb
+U:\PSA-3\Nová složka\Práce na příští 4 týdny\shibenice\Shi\Shi\obj\Debug\Shi.csprojResolveAssemblyReference.cache
+U:\PSA-3\Nová složka\Práce na příští 4 týdny\shibenice\Shi\Shi\obj\Debug\Shi.Form1.resources
+U:\PSA-3\Nová složka\Práce na příští 4 týdny\shibenice\Shi\Shi\obj\Debug\Shi.Properties.Resources.resources
+U:\PSA-3\Nová složka\Práce na příští 4 týdny\shibenice\Shi\Shi\obj\Debug\Shi.csproj.GenerateResource.Cache
+U:\PSA-3\Nová složka\Práce na příští 4 týdny\shibenice\Shi\Shi\obj\Debug\Shi.csproj.CoreCompileInputs.cache
+U:\PSA-3\Nová složka\Práce na příští 4 týdny\shibenice\Shi\Shi\obj\Debug\Shi.exe
+U:\PSA-3\Nová složka\Práce na příští 4 týdny\shibenice\Shi\Shi\obj\Debug\Shi.pdb
+E:\PSA-3\Nová složka\Práce na příští 4 týdny\shibenice\Shi\Shi\bin\Debug\Shi.exe.config
+E:\PSA-3\Nová složka\Práce na příští 4 týdny\shibenice\Shi\Shi\bin\Debug\Shi.exe
+E:\PSA-3\Nová složka\Práce na příští 4 týdny\shibenice\Shi\Shi\bin\Debug\Shi.pdb
+E:\PSA-3\Nová složka\Práce na příští 4 týdny\shibenice\Shi\Shi\obj\Debug\Shi.csprojResolveAssemblyReference.cache
+E:\PSA-3\Nová složka\Práce na příští 4 týdny\shibenice\Shi\Shi\obj\Debug\Shi.Form1.resources
+E:\PSA-3\Nová složka\Práce na příští 4 týdny\shibenice\Shi\Shi\obj\Debug\Shi.Properties.Resources.resources
+E:\PSA-3\Nová složka\Práce na příští 4 týdny\shibenice\Shi\Shi\obj\Debug\Shi.csproj.GenerateResource.Cache
+E:\PSA-3\Nová složka\Práce na příští 4 týdny\shibenice\Shi\Shi\obj\Debug\Shi.csproj.CoreCompileInputs.cache
+E:\PSA-3\Nová složka\Práce na příští 4 týdny\shibenice\Shi\Shi\obj\Debug\Shi.exe
+E:\PSA-3\Nová složka\Práce na příští 4 týdny\shibenice\Shi\Shi\obj\Debug\Shi.pdb
+C:\Users\Atlan\OneDrive\Plocha\shibenice\Shi\Shi\bin\Debug\Shi.exe.config
+C:\Users\Atlan\OneDrive\Plocha\shibenice\Shi\Shi\bin\Debug\Shi.exe
+C:\Users\Atlan\OneDrive\Plocha\shibenice\Shi\Shi\bin\Debug\Shi.pdb
+C:\Users\Atlan\OneDrive\Plocha\shibenice\Shi\Shi\obj\Debug\Shi.csprojResolveAssemblyReference.cache
+C:\Users\Atlan\OneDrive\Plocha\shibenice\Shi\Shi\obj\Debug\Shi.Form1.resources
+C:\Users\Atlan\OneDrive\Plocha\shibenice\Shi\Shi\obj\Debug\Shi.Properties.Resources.resources
+C:\Users\Atlan\OneDrive\Plocha\shibenice\Shi\Shi\obj\Debug\Shi.csproj.GenerateResource.cache
+C:\Users\Atlan\OneDrive\Plocha\shibenice\Shi\Shi\obj\Debug\Shi.csproj.CoreCompileInputs.cache
+C:\Users\Atlan\OneDrive\Plocha\shibenice\Shi\Shi\obj\Debug\Shi.exe
+C:\Users\Atlan\OneDrive\Plocha\shibenice\Shi\Shi\obj\Debug\Shi.pdb
+E:\c#\shibenice\Shi\Shi\bin\Debug\Shi.exe.config
+E:\c#\shibenice\Shi\Shi\bin\Debug\Shi.exe
+E:\c#\shibenice\Shi\Shi\bin\Debug\Shi.pdb
+E:\c#\shibenice\Shi\Shi\obj\Debug\Shi.csprojResolveAssemblyReference.cache
+E:\c#\shibenice\Shi\Shi\obj\Debug\Shi.Form1.resources
+E:\c#\shibenice\Shi\Shi\obj\Debug\Shi.Properties.Resources.resources
+E:\c#\shibenice\Shi\Shi\obj\Debug\Shi.csproj.GenerateResource.cache
+E:\c#\shibenice\Shi\Shi\obj\Debug\Shi.csproj.CoreCompileInputs.cache
+E:\c#\shibenice\Shi\Shi\obj\Debug\Shi.exe
+E:\c#\shibenice\Shi\Shi\obj\Debug\Shi.pdb
+D:\c#\Do konce školního roku\shibenice\Shi\Shi\bin\Debug\Shi.exe.config
+D:\c#\Do konce školního roku\shibenice\Shi\Shi\bin\Debug\Shi.exe
+D:\c#\Do konce školního roku\shibenice\Shi\Shi\bin\Debug\Shi.pdb
+D:\c#\Do konce školního roku\shibenice\Shi\Shi\obj\Debug\Shi.csprojAssemblyReference.cache
+D:\c#\Do konce školního roku\shibenice\Shi\Shi\obj\Debug\Shi.Form1.resources
+D:\c#\Do konce školního roku\shibenice\Shi\Shi\obj\Debug\Shi.Properties.Resources.resources
+D:\c#\Do konce školního roku\shibenice\Shi\Shi\obj\Debug\Shi.csproj.GenerateResource.cache
+D:\c#\Do konce školního roku\shibenice\Shi\Shi\obj\Debug\Shi.exe
+D:\c#\Do konce školního roku\shibenice\Shi\Shi\obj\Debug\Shi.pdb
