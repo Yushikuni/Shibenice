@@ -47,12 +47,13 @@ E:\c#\shibenice\Shi\Shi\obj\Debug\Shi.csproj.GenerateResource.cache
 E:\c#\shibenice\Shi\Shi\obj\Debug\Shi.csproj.CoreCompileInputs.cache
 E:\c#\shibenice\Shi\Shi\obj\Debug\Shi.exe
 E:\c#\shibenice\Shi\Shi\obj\Debug\Shi.pdb
-D:\c#\Do konce školního roku\shibenice\Shi\Shi\bin\Debug\Shi.exe.config
-D:\c#\Do konce školního roku\shibenice\Shi\Shi\bin\Debug\Shi.exe
-D:\c#\Do konce školního roku\shibenice\Shi\Shi\bin\Debug\Shi.pdb
-D:\c#\Do konce školního roku\shibenice\Shi\Shi\obj\Debug\Shi.csprojAssemblyReference.cache
-D:\c#\Do konce školního roku\shibenice\Shi\Shi\obj\Debug\Shi.Form1.resources
-D:\c#\Do konce školního roku\shibenice\Shi\Shi\obj\Debug\Shi.Properties.Resources.resources
-D:\c#\Do konce školního roku\shibenice\Shi\Shi\obj\Debug\Shi.csproj.GenerateResource.cache
-D:\c#\Do konce školního roku\shibenice\Shi\Shi\obj\Debug\Shi.exe
-D:\c#\Do konce školního roku\shibenice\Shi\Shi\obj\Debug\Shi.pdb
+D:\____Flesh____\c#\Do konce školního roku\shibenice\Shi\Shi\bin\Debug\Shi.exe.config
+D:\____Flesh____\c#\Do konce školního roku\shibenice\Shi\Shi\bin\Debug\Shi.exe
+D:\____Flesh____\c#\Do konce školního roku\shibenice\Shi\Shi\bin\Debug\Shi.pdb
+D:\____Flesh____\c#\Do konce školního roku\shibenice\Shi\Shi\obj\Debug\Shi.csprojAssemblyReference.cache
+D:\____Flesh____\c#\Do konce školního roku\shibenice\Shi\Shi\obj\Debug\Shi.Form1.resources
+D:\____Flesh____\c#\Do konce školního roku\shibenice\Shi\Shi\obj\Debug\Shi.Properties.Resources.resources
+D:\____Flesh____\c#\Do konce školního roku\shibenice\Shi\Shi\obj\Debug\Shi.csproj.GenerateResource.cache
+D:\____Flesh____\c#\Do konce školního roku\shibenice\Shi\Shi\obj\Debug\Shi.csproj.CoreCompileInputs.cache
+D:\____Flesh____\c#\Do konce školního roku\shibenice\Shi\Shi\obj\Debug\Shi.exe
+D:\____Flesh____\c#\Do konce školního roku\shibenice\Shi\Shi\obj\Debug\Shi.pdb
