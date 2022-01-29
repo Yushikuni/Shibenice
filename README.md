@@ -8,5 +8,11 @@
 
 ![DruhyKonecHry](https://user-images.githubusercontent.com/42646031/151656512-a208d85e-23ea-4bc3-b28e-6748552d697e.png)
 
+
+### EN:
+
+Game was programmed in C# using Windows Forms. The words can be customized in shi.txt file
+
+### CZ:
 Standartní hra šibenice, kde hledáte zadané slovo, nejen z čestiny ale i z anglictiny a fonetické japonštiny
 icona zdroj: https://findicons.com/icon/download/128229/voodoo_usb_drive/128/ico
